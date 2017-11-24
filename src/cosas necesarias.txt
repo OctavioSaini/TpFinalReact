@@ -1,0 +1,8 @@
+tiene que estar instalado react
+
+npm install:
+axios
+material ui
+react-react-router
+react-router-dom
+npm start
